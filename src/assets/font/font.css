@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "SourceHanSansSC-Regular-2";
+  src: url('~@/assets/font/SourceHanSansSC-Regular-2.ttf') format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SourceHanSansSC-Medium-2";
+  src: url('~@/assets/font/SourceHanSansSC-Medium-2.ttf') format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SourceHanSansSC-Bold-2";
+  src: url('~@/assets/font/SourceHanSansSC-Bold-2.ttf') format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SourceHanSansSC-Heavy-2";
+  src: url('~@/assets/font/SourceHanSansSC-Heavy-2.ttf') format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
